@@ -1,6 +1,10 @@
-#公司
 
-DOMAIN-SUFFIX,cw
 DOMAIN-KEYWORD,ikuuu
 DOMAIN-SUFFIX,mikanime.tv
 DOMAIN-SUFFIX,pixiv.re
+
+;pt
+
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,0ff.cc
+DOMAIN-SUFFIX,1ptba.com
